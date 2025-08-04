@@ -40,3 +40,10 @@ informacion_personal = {
     'age':43,
     'dogs':5
 }
+
+print(first_name)
+print(type(first_name))
+print(first_name.upper())
+
+print(edad)
+print(type(edad))
