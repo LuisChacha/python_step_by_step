@@ -12,7 +12,7 @@ print(age)
 print(salary)
 
 # Recomendaciones PEP8
-
+# nombres de variables en inglés...
 nombre_variables = 'Variables con snake_case'
 _variable_privada = 'Variable privada'
 PI = 3.1416
