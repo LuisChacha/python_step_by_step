@@ -1,5 +1,12 @@
 # Truthy (Verdaderos)
 print(bool(True))
+print(bool(1))
+print(bool(123))
+print(bool(1.1))
+print(bool(-1.1))
+print(bool(1j))
+print(bool("Hola"))
+print(bool([1,2,3]))
 
 #Falsey (Falsos)
 print(bool(False))
